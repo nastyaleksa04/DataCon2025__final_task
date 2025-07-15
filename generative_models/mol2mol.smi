@@ -1,0 +1,7 @@
+# Example compounds for REINVENT4 Mol2Mol
+#
+# NOTE: this may need a lot of GPU memory so the number of compounds must be
+#       fairly small
+#
+# One molecule per line
+
